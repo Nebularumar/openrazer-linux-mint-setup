@@ -1,0 +1,18 @@
+# System files
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temp files
+*.tmp
+.cache/
+
+# Linux Mint specific
+.local/
+.config/
